@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [FastAPI]("https://github.com/fastapi")
+- ⚡ I’m fan of React and [Next.js]("https://github.com/vercel/next.js") projects.
